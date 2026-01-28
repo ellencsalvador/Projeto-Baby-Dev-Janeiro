@@ -1,0 +1,56 @@
+/* Configuração Geral */
+body {
+    background-color: #0d1117; /* Fundo escuro estilo GitHub */
+    color: white;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+main {
+    text-align: center;
+    max-width: 400px;
+    width: 90%;
+}
+
+/* Domando a Foto Gigante */
+.profile-pic {
+    width: 150px; /* Tamanho controlado */
+    height: 150px;
+    border-radius: 50%; /* Deixa a foto redonda */
+    object-fit: cover;
+    border: 3px solid #00d2ff; /* Borda azul para destacar */
+    margin-bottom: 20px;
+}
+
+/* Estilizando a Lista de Links */
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin: 15px 0;
+}
+
+a {
+    display: block;
+    background-color: #21262d;
+    color: white;
+    padding: 15px;
+    text-decoration: none;
+    border-radius: 8px;
+    border: 1px solid #30363d;
+    transition: 0.3s;
+    font-weight: bold;
+}
+
+/* Efeito ao passar o mouse - Mostra que você sabe CSS! */
+a:hover {
+    background-color: #30363d;
+    transform: scale(1.05);
+    color: white;
+}
