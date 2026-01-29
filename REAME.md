@@ -5,17 +5,19 @@ Como estou em plena transição de carreira para a área de tecnologia, decidi c
 
 ## 👩‍💻 Sobre Mim
 * **Formação Atual:** Bacharelado em Ciência de Dados (UNIVESP) e Análise e Desenvolvimento de Sistemas (Estácio).
-* **Foco Técnico:** Qualidade de Software (QA) e agora Desenvolvimento Full Stack com foco em IA (DevClub).
+* **Foco Técnico:** Qualidade de Software (QA), Desenvolvimento em Python e agora Desenvolvimento Full Stack com foco em IA (DevClub).
 * **Localização:** Ilhabela / São Sebastião - Litoral Norte de SP.
 
 ## 🛠️ Tecnologias Utilizadas
 * **HTML5:** Estrutura semântica e organizada.
-* **CSS3:** Estilização moderna com efeitos de hover e responsividade.
+* **CSS:** Estilização moderna com efeitos de hover e responsividade.
 * **GitHub Codespaces:** Ambiente de desenvolvimento em nuvem.
 
 ## 🔗 Links do Projeto
 * [Acesse o site aqui](https://ellencsalvador.github.io/Portfolio/)
 * [Meu LinkedIn](https://www.linkedin.com/in/ellencsalvador)
+
+
 
 ---
 *Este repositório faz parte do meu portfólio de evolução constante no curso DevClub.*

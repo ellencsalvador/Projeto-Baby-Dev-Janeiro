@@ -1,8 +1,8 @@
-/* Configuração Geral */
+/* Configuração do Fundo com Degradê Profissional */
 body {
-    background-color: #0d1117; /* Fundo escuro estilo GitHub */
+    background: linear-gradient(135deg, #0f172a 0%, #1e1b4b 50%, #312e81 100%);
     color: white;
-    font-family: Arial, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -14,43 +14,68 @@ main {
     text-align: center;
     max-width: 400px;
     width: 90%;
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.02); /* Leve transparência no fundo do conteúdo */
+    border-radius: 20px;
+    backdrop-filter: blur(10px);
 }
 
-/* Domando a Foto Gigante */
+/* Foto com a borda Cyan (Ciano) do seu portfólio */
 .profile-pic {
-    width: 150px; /* Tamanho controlado */
-    height: 150px;
-    border-radius: 50%; /* Deixa a foto redonda */
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
     object-fit: cover;
-    border: 3px solid #00d2ff; /* Borda azul para destacar */
+    border: 4px solid #00d2ff; 
+    box-shadow: 0 0 25px rgba(0, 210, 255, 0.4);
+    margin-bottom: 15px;
+}
+
+h1 {
+    font-size: 1.7rem;
+    margin-bottom: 5px;
+    color: #00d2ff; /* Nome na cor principal */
+}
+
+p {
+    font-size: 0.9rem;
+    opacity: 0.8;
     margin-bottom: 20px;
 }
 
-/* Estilizando a Lista de Links */
+/* Estilo dos Botões - Modernos e Coloridos */
 ul {
     list-style: none;
     padding: 0;
 }
 
 li {
-    margin: 15px 0;
+    margin: 12px 0;
 }
 
 a {
     display: block;
-    background-color: #21262d;
+    background: rgba(255, 255, 255, 0.05);
     color: white;
-    padding: 15px;
+    padding: 14px;
     text-decoration: none;
-    border-radius: 8px;
-    border: 1px solid #30363d;
-    transition: 0.3s;
-    font-weight: bold;
+    border-radius: 10px;
+    border: 1px solid rgba(0, 210, 255, 0.2);
+    transition: all 0.4s ease;
+    font-weight: 600;
 }
 
-/* Efeito ao passar o mouse - Mostra que você sabe CSS! */
+/* Efeito de Hover: Aqui entra o degradê do seu portfólio */
 a:hover {
-    background-color: #30363d;
-    transform: scale(1.05);
-    color: white;
+    background: linear-gradient(90deg, #00d2ff 0%, #9d4edd 100%);
+    transform: translateY(-4px);
+    box-shadow: 0 8px 15px rgba(157, 78, 221, 0.3);
+    border-color: transparent;
+}
+
+footer {
+    margin-top: 60px; /* Aumentei de 25px para 60px para dar esse espaço que você quer */
+    font-size: 0.75rem;
+    opacity: 0.5;
+    padding-bottom: 20px; /* Adicionei um espaço extra no fundo para não colar na borda da tela */
 }
