@@ -1,23 +1,17 @@
-# 🚀 Projeto Baby Dev - Janeiro/2026 (DevClub)
+# 🚀 Projeto Baby Dev - Concurso DevClub
 
-Este é o meu projeto de estreia no concurso de Projetos *DevClub* em Janeiro de 2026, na Categoria 👶 Baby Dev. 
-Como estou em plena transição de carreira para a área de tecnologia, decidi criar neste projeto uma central de links personalizada que une minha jornada acadêmica, técnica e empreendedora.
-
-## 👩‍💻 Sobre Mim
-* **Formação Atual:** Bacharelado em Ciência de Dados (UNIVESP) e Análise e Desenvolvimento de Sistemas (Estácio).
-* **Foco Técnico:** Qualidade de Software (QA), Desenvolvimento em Python e agora Desenvolvimento Full Stack com foco em IA (DevClub).
-* **Localização:** Ilhabela / São Sebastião - Litoral Norte de SP.
+Este projeto foi desenvolvido para o concurso de projetos da comunidade **DevClub**. É uma central de links (Bio) responsiva, focada em design moderno e performance.
 
 ## 🛠️ Tecnologias Utilizadas
-* **HTML5:** Estrutura semântica e organizada.
-* **CSS:** Estilização moderna com efeitos de hover e responsividade.
-* **GitHub Codespaces:** Ambiente de desenvolvimento em nuvem.
+- **HTML5**: Estruturação semântica.
+- **CSS3**: Estilização com Flexbox, Gradientes modernos e Hover effects.
+- **Responsividade**: Totalmente adaptado para dispositivos móveis e desktop.
 
-## 🔗 Links do Projeto
-* [Acesse o site aqui](https://ellencsalvador.github.io/Portfolio/)
-* [Meu LinkedIn](https://www.linkedin.com/in/ellencsalvador)
+## 🔗 Link do Projeto
+[Clique aqui para visualizar o site online](https://ellencsalvador.github.io/Projeto-Baby-Dev-Janeiro/)
 
-
+## 🎓 Sobre o curso
+Desenvolvido durante a formação **Programação com IA do DevClub**, aplicando conceitos de desenvolvimento Full Stack e as melhores práticas de UI/UX.
 
 ---
 *Este repositório faz parte do meu portfólio de evolução constante no curso DevClub.*
